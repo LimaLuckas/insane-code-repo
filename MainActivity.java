@@ -1,4 +1,4 @@
-package br.edu.ifpb.splashscreen;
+package br.edu.ifpb.nutriapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
